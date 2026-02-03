@@ -1,8 +1,32 @@
-# 👩🏻‍💻 Larissa Kich
+# 👩🏻‍💻 Kelvin Cristian
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+# 👋 Olá, eu sou o Kelvin
+
+Sou gestor de automações e inteligência artificial, com foco em criar soluções práticas que unem tecnologia, eficiência e visão de negócio. Gosto de transformar ideias em sistemas funcionais, simples de usar e pensados para resolver problemas reais.
+
+Atuo principalmente com desenvolvimento em JavaScript, automações inteligentes, integração de APIs e uso estratégico de IA para otimizar processos, produtos e experiências. Tenho interesse especial em projetos que combinam tecnologia e criatividade.
+
+## 🧠 Sobre meu trabalho
+Aqui no GitHub você vai encontrar:
+- Projetos desenvolvidos com **código próprio**
+- Experimentos e aplicações criadas com **apoio de inteligência artificial**
+- Protótipos e ideias em evolução (acredito muito em aprender construindo)
+
+Vejo a IA como uma ferramenta poderosa de produtividade e inovação — não como atalho, mas como alavanca. Meu foco é entender o problema, escolher a melhor abordagem e entregar soluções funcionais.
+
+## 🚀 Interesses e estudos
+- Automações e agentes inteligentes
+- IA aplicada a negócios
+- Desenvolvimento web
+- Criação de produtos digitais
+- Aprendizado contínuo e melhoria de processos
+
+## 📫 Vamos conversar?
+Fique à vontade para explorar os projetos ou entrar em contato.
+Estou sempre aberto a trocar ideias, aprender e colaborar em bons projetos.
+
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
